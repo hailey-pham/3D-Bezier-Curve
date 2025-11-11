@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\haile\Desktop\School\cg_project_2\source\main.cpp(309,58): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\haile\Desktop\School\cg_project_2\source\main.cpp(309,24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  p2.vcxproj -> C:\Users\haile\Desktop\School\Computer Graphics\cg_project_2\build\Debug\p2.exe

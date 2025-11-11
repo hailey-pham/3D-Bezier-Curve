@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haile\\Desktop\\School\\Computer Graphics\\cg_project_2\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF5CB3E-2E3A-3783-A0C7-A70E340C0536}|p2.vcxproj|C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\PointsObject.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF5CB3E-2E3A-3783-A0C7-A70E340C0536}|p2.vcxproj|C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF5CB3E-2E3A-3783-A0C7-A70E340C0536}|p2.vcxproj|C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\PointsObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF5CB3E-2E3A-3783-A0C7-A70E340C0536}|p2.vcxproj|C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\pointVertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\cg_project_2\\source\\main.cpp",
+              "ToolTip": "C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\main.cpp",
+              "RelativeToolTip": "..\\..\\..\\cg_project_2\\source\\main.cpp",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAADQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T19:34:15.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointsObject.hpp",
+              "DocumentMoniker": "C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\PointsObject.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\cg_project_2\\source\\PointsObject.hpp",
+              "ToolTip": "C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\PointsObject.hpp",
+              "RelativeToolTip": "..\\..\\..\\cg_project_2\\source\\PointsObject.hpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAjwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T00:45:49.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointsObject.cpp",
+              "DocumentMoniker": "C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\PointsObject.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\cg_project_2\\source\\PointsObject.cpp",
+              "ToolTip": "C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\PointsObject.cpp",
+              "RelativeToolTip": "..\\..\\..\\cg_project_2\\source\\PointsObject.cpp",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAjwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T18:01:55.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pointVertexShader.glsl",
+              "DocumentMoniker": "C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\pointVertexShader.glsl",
+              "RelativeDocumentMoniker": "..\\..\\..\\cg_project_2\\source\\pointVertexShader.glsl",
+              "ToolTip": "C:\\Users\\haile\\Desktop\\School\\cg_project_2\\source\\pointVertexShader.glsl",
+              "RelativeToolTip": "..\\..\\..\\cg_project_2\\source\\pointVertexShader.glsl",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-02T01:28:24.667Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

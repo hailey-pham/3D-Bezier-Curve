@@ -1,0 +1,10 @@
+^C:\USERS\HAILE\DESKTOP\SCHOOL\CG_PROJECT_2\EXTERNAL\GLFW-3.1.2\TESTS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/haile/Desktop/School/cg_project_2 "-BC:/Users/haile/Desktop/School/Computer Graphics/cg_project_2/build" --check-stamp-file "C:/Users/haile/Desktop/School/Computer Graphics/cg_project_2/build/external/glfw-3.1.2/tests/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
