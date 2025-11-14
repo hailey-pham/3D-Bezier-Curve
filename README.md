@@ -5,6 +5,6 @@ In this project I used OpenGL to create a closed shape rendered with bezier curv
 [Project demonstration and code explanation] https://youtu.be/kAsF8uLkuKA
 
 For the most significant code the I wrote see the following scripts:
-- (../source/main.cpp)
-- (../source/PointsObject.cpp)
-- (../source/pointsVertexShader.glsl)
+- [main.cpp](../source/main.cpp)
+- [PointsObject.cpp](../source/PointsObject.cpp)
+- [pointVertexShader.glsl](../source/pointVertexShader.glsl)
